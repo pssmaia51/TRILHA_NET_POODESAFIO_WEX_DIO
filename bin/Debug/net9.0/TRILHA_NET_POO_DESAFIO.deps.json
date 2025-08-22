@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TRILHA_NET_POO_DESAFIO/1.0.0": {
+        "runtime": {
+          "TRILHA_NET_POO_DESAFIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRILHA_NET_POO_DESAFIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
